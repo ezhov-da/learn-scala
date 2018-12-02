@@ -1,5 +1,5 @@
 package ru.ezhov.learn.common
 
-object Main extends App {
+object Main {
   println("HELLO")
 }

@@ -74,4 +74,4 @@ libraryDependencies += "org.typelevel" %% "cats-core" % "1.4.0"
 // documentation at http://www.scala-sbt.org/documentation.html
 
 
-addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.6")
+//addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.8")
